@@ -1,0 +1,31 @@
+
+./Monparsing.hs,563
+module Monparsing Monparsing0,1
+type Parser Parser2,3
+type Parser a a2,3
+result result6,7
+result result7,8
+zero zero10,11
+zero zero11,12
+item item14,15
+item item15,16
+bind bind20,21
+p `bind`bind21,22
+sat sat23,24
+sat sat24,25
+char char26,27
+char char27,28
+digit digit29,30
+digit digit30,31
+lower lower32,33
+lower lower33,34
+upper upper35,36
+upper upper36,37
+plus plus38,39
+p `plus`plus39,40
+letter letter41,42
+letter letter42,43
+alphanum alphanum44,45
+alphanum alphanum45,46
+word word47,48
+word word48,49
